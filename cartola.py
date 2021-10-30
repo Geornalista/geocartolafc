@@ -30,7 +30,7 @@ dropdown1 = st.sidebar.selectbox('Escolha os times', times)
 radio = st.sidebar.radio('Escolha uma posição:',posicoes)
 
 filename = 'cartola.xlsx'
-cartola = pd.read_excel(filename)
+cartola = pd.read_excel(filename, engine= 'openpyxl')
 cartola.drop('Unnamed: 0',axis=1,inplace=True)
 
 if len(dropdown1) > 0:
