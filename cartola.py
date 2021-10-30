@@ -1,20 +1,13 @@
 import streamlit as st
 import altair as alt
 import pandas as pd
-import requests
-import json
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator
 
 
-url = 'https://api.cartolafc.globo.com/partidas/1'
-response = requests.get(url)
-
-clubes = pd.DataFrame(response.json()['clubes'].values())
-clubes.drop(['abreviacao','escudos','nome_fantasia'],axis=1,inplace=True)
-clubes.columns = ['clube_id','TIME']
-times = clubes['TIME'].values.tolist()
-times.sort()
+times = ['América-MG','Athlético-PR','Atlético-GO','Atlético-MG','Bahia','Bragantino','Ceará',
+        'Chapecoense','Corinthians','Cuiabá','Flamengo','Fluminense','Fortaleza','Grêmio',
+        'Internacional','Juventude','Palmeiras','Santos','Sport','São Paulo']
 
 posicoes = ['Goleiro','Zagueiro','Lateral','Meia','Atacante']
 
