@@ -11,7 +11,7 @@ times = ['América-MG','Athlético-PR','Atlético-GO','Atlético-MG','Bahia','Br
 
 posicoes = ['Goleiro','Zagueiro','Lateral','Meia','Atacante']
 
-rodada_atual = 29
+rodada_atual = 30
 
 rods = []
 for i in range(rodada_atual):
