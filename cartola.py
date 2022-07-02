@@ -44,7 +44,7 @@ if len(dropdown1) > 0:
   fig.update_layout(
     xaxis_title="Pontos",
     autosize=False,
-    width=850,
+    width=300,
     height=hheight,
     margin=dict(
         l=10,
