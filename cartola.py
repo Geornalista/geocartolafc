@@ -12,14 +12,15 @@ posicoes = ['Goleiro','Lateral','Zagueiro','Meia','Atacante','Técnico']
 
 st.sidebar.write(
     """
-    **CARTOLAFC 2022 **
+    CARTOLAFC 2022
 
     """
 )
 
-st.sidebar.header('Escolha os times')
+st.sidebar.header('Escolha o time')
+dropdown1 = st.sidebar.selectbox('Escolha o time', times)
 
-dropdown1 = st.sidebar.selectbox('Escolha os times', times)
+st.sidebar.header('Escolha a posição')
 radio = st.sidebar.radio('Escolha uma posição:',posicoes)
 
 filename = 'cartola.csv'
