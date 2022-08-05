@@ -6146,3 +6146,339 @@
 6144,Santos,Atacante,Lucas Braga,2.8,19,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,4,0,Fortaleza,0,1
 6145,Santos,Meia,Rodrigo Fernández,3.7,19,0,0,0,0,0,0,4,0,0,1,0,2,0,1,0,0,0,0,7,0,Fortaleza,0,1
 6146,Fluminense,Meia,Arias,14.0,19,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,12,0,Bragantino,1,0
+6147,São Paulo,Meia,Igor Gomes,0.4,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,3,0,Athlético-PR,0,1
+6148,América-MG,Atacante,Pedrinho,7.0,20,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Avaí,1,0
+6149,Corinthians,Atacante,Yuri Alberto,-0.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Botafogo,1,0
+6150,Avaí,Atacante,Bissoli,8.2,20,1,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,1,8,0,América-MG,0,1
+6151,Bragantino,Lateral,Luan Cândido,6.0,20,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,1,11,0,Juventude,1,0
+6152,Fortaleza,Meia,Ronald,1.1,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,3,0,Cuiabá,0,1
+6153,Fluminense,Meia,Nonato,6.1,20,0,0,0,0,0,0,3,0,0,0,0,1,0,2,0,3,0,0,11,0,Santos,0,1
+6154,Goiás,Meia,Diego,1.4,20,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,3,0,0,7,0,Coritiba,1,0
+6155,Juventude,Técnico,Umberto Louzer,1.65,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bragantino,0,1
+6156,Goiás,Zagueiro,Danilo Cardoso,5.6,20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,Coritiba,1,0
+6157,Coritiba,Atacante,Alef Manga,2.9,20,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,1,0,1,9,0,Goiás,0,1
+6158,Atlético-MG,Atacante,Ademir,1.2,20,0,0,0,0,0,0,0,0,0,1,0,2,0,1,1,2,0,1,1,0,Internacional,0,1
+6159,Cuiabá,Meia,Pepê,7.2,20,0,0,0,0,0,0,5,0,0,0,0,2,0,1,0,3,0,0,9,0,Fortaleza,1,0
+6160,Juventude,Atacante,Vitor Gabriel,1.9,20,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,2,0,Bragantino,0,1
+6161,Goiás,Meia,Caio,0.7,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,Coritiba,1,0
+6162,Santos,Lateral,Felipe Jonatan,2.7,20,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,6,0,Fluminense,1,0
+6163,Flamengo,Lateral,Matheuzinho,7.0,20,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1,1,0,0,3,0,Atlético-GO,1,0
+6164,Ceará,Meia,Guilherme Castilho,1.0,20,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,1,0,0,6,0,Palmeiras,1,0
+6165,Athlético-PR,Atacante,Vitinho,1.9,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,São Paulo,1,0
+6166,Fortaleza,Lateral,Brítez,3.3,20,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,11,0,Cuiabá,0,1
+6167,Internacional,Atacante,Braian Romero,0.4,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Atlético-MG,1,0
+6168,Palmeiras,Lateral,Piquerez,0.1,20,0,0,0,0,0,0,2,0,0,1,0,2,0,0,0,0,0,0,7,0,Ceará,0,1
+6169,Goiás,Zagueiro,Lucas Halter,4.3,20,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,0,Coritiba,1,0
+6170,Athlético-PR,Zagueiro,Matheus Felipe,5.9,20,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,São Paulo,1,0
+6171,Fluminense,Atacante,Caio Paulista,1.0,20,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,1,0,0,6,0,Santos,0,1
+6172,Bragantino,Atacante,Helinho,13.6,20,1,0,0,0,0,0,5,0,0,0,0,2,0,0,1,1,0,0,11,0,Juventude,1,0
+6173,Athlético-PR,Atacante,Canobbio,1.6,20,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,0,3,1,São Paulo,1,0
+6174,Coritiba,Lateral,Matheus Alexandre,4.2,20,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,1,10,0,Goiás,0,1
+6175,Goiás,Zagueiro,Caetano,6.0,20,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,7,0,Coritiba,1,0
+6176,Internacional,Zagueiro,Kaíque Rocha,6.2,20,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Atlético-MG,1,0
+6177,Corinthians,Zagueiro,Bruno Méndez,10.7,20,0,0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,3,0,Botafogo,1,0
+6178,Palmeiras,Meia,Gabriel Menino,0.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceará,0,1
+6179,Ceará,Atacante,Cléber,1.6,20,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,5,0,Palmeiras,1,0
+6180,Cuiabá,Lateral,João Lucas,-2.8,20,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,15,0,Fortaleza,1,0
+6181,Athlético-PR,Lateral,Abner Vinícius,6.5,20,0,0,0,1,0,0,2,0,0,0,0,1,0,0,0,0,0,0,6,0,São Paulo,1,0
+6182,Cuiabá,Meia,Camilo,1.7,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,5,0,Fortaleza,1,0
+6183,Santos,Meia,Vinícius Zanocelo,3.6,20,0,0,0,0,0,0,3,0,0,0,0,4,0,0,2,0,0,0,4,0,Fluminense,1,0
+6184,Coritiba,Atacante,Igor Paixão,3.1,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,3,1,0,0,7,0,Goiás,0,1
+6185,Santos,Meia,Sandry,-0.4,20,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,3,0,Fluminense,1,0
+6186,Botafogo,Atacante,Vinícius Lopes,3.3,20,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,0,Corinthians,0,1
+6187,Fortaleza,Atacante,Moisés,-0.6,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,Cuiabá,0,1
+6188,Fortaleza,Técnico,Juan Vojvoda,5.71,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cuiabá,0,1
+6189,Coritiba,Atacante,Adrián Martínez,4.2,20,0,0,0,0,0,0,1,0,0,1,0,0,0,0,4,2,0,0,2,0,Goiás,0,1
+6190,Botafogo,Atacante,Luis Henrique ,-0.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,Corinthians,0,1
+6191,Athlético-PR,Lateral,Khellven ,4.5,20,0,0,0,1,0,0,1,0,0,0,0,2,0,0,0,1,0,0,16,0,São Paulo,1,0
+6192,Athlético-PR,Goleiro,Bento,7.0,20,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,São Paulo,1,0
+6193,Bragantino,Atacante,Jan Hurtado,1.0,20,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,Juventude,1,0
+6194,Coritiba,Meia,Trindade,1.1,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,3,0,Goiás,0,1
+6195,Corinthians,Meia,Roni,9.3,20,0,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,5,0,Botafogo,1,0
+6196,Internacional,Meia,Maurício,16.2,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,0,Atlético-MG,1,0
+6197,Palmeiras,Atacante,Rafael Navarro,0.6,20,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,Ceará,0,1
+6198,Internacional,Meia,Johnny,2.0,20,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,1,0,Atlético-MG,1,0
+6199,Atlético-GO,Atacante,Airton,-0.4,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,Flamengo,0,1
+6200,Coritiba,Meia,Bruno Gomes,4.5,20,0,0,0,0,0,0,3,0,0,0,0,1,0,0,1,2,0,0,6,0,Goiás,0,1
+6201,Atlético-GO,Atacante,Léo Pereira,-0.7,20,0,0,0,0,0,0,0,0,0,1,0,2,0,0,2,0,0,0,7,0,Flamengo,0,1
+6202,Atlético-GO,Atacante,Peglow,-0.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,Flamengo,0,1
+6203,São Paulo,Meia,Rodrigo Nestor,-0.3,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,Athlético-PR,0,1
+6204,São Paulo,Meia,Talles,1.0,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,Athlético-PR,0,1
+6205,América-MG,Zagueiro,Luan Patrick,-1.3,20,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,7,0,Avaí,1,0
+6206,Bragantino,Zagueiro,Natan,8.5,20,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,Juventude,1,0
+6207,Botafogo,Atacante,Jeffinho,1.3,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,7,0,Corinthians,0,1
+6208,Botafogo,Meia,Patrick de Paula,3.7,20,0,0,0,0,0,0,3,0,0,0,0,1,0,0,1,0,0,0,4,0,Corinthians,0,1
+6209,Athlético-PR,Atacante,Rômulo,-0.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,São Paulo,1,0
+6210,Palmeiras,Meia,Danilo,0.5,20,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,7,0,Ceará,0,1
+6211,Palmeiras,Lateral,Vanderlan,1.9,20,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,2,0,Ceará,0,1
+6212,Goiás,Meia,Henrique Lordelo,-0.3,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Coritiba,1,0
+6213,Fluminense,Meia,André,0.2,20,0,0,0,0,0,0,2,0,0,1,0,3,0,0,0,0,0,0,3,0,Santos,0,1
+6214,Bragantino,Meia,Praxedes,6.0,20,0,0,0,0,0,0,2,0,0,0,0,1,0,0,5,1,0,1,5,0,Juventude,1,0
+6215,Corinthians,Meia,Fausto Vera,8.8,20,0,0,0,0,0,0,5,0,0,0,0,1,0,1,3,1,0,0,10,0,Botafogo,1,0
+6216,Juventude,Atacante,Pitta,1.8,20,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,7,0,Bragantino,0,1
+6217,Ceará,Zagueiro,Gabriel Lacerda,-0.9,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0,Palmeiras,1,0
+6218,Ceará,Atacante,Vásquez,1.6,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,Palmeiras,1,0
+6219,Botafogo,Atacante,Erison,2.5,20,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,4,0,Corinthians,0,1
+6220,Goiás,Atacante,Renato Junior,-0.6,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,Coritiba,1,0
+6221,Botafogo,Atacante,Matheus Nascimento,1.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Corinthians,0,1
+6222,Santos,Atacante,Marcos Leonardo,9.7,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,2,0,Fluminense,1,0
+6223,Cuiabá,Zagueiro,Joaquim,4.5,20,0,0,0,0,0,0,3,0,0,0,0,1,0,1,1,0,0,0,8,0,Fortaleza,1,0
+6224,Fluminense,Meia,Martinelli,0.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,Santos,0,1
+6225,Bragantino,Atacante,Gabriel Novaes,0.3,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,Juventude,1,0
+6226,Botafogo,Lateral,Hugo,3.0,20,0,0,0,0,0,0,3,0,0,0,0,1,0,0,1,0,0,0,11,0,Corinthians,0,1
+6227,Flamengo,Meia,Lázaro,14.3,20,1,0,0,0,0,0,3,0,0,0,0,1,0,1,2,1,0,0,3,0,Atlético-GO,1,0
+6228,Santos,Atacante,Ângelo,4.4,20,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,Fluminense,1,0
+6229,Palmeiras,Técnico,Abel Ferreira,5.59,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ceará,0,1
+6230,Cuiabá,Meia,Gabriel Pirani,1.1,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,3,0,Fortaleza,1,0
+6231,Bragantino,Lateral,Andrés Hurtado,4.7,20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,Juventude,1,0
+6232,Atlético-MG,Meia,Rubens,3.5,20,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,Internacional,0,1
+6233,Athlético-PR,Lateral,Pedrinho,7.2,20,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,3,0,São Paulo,1,0
+6234,Bragantino,Atacante,Sorriso,0.4,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Juventude,1,0
+6235,Avaí,Meia,Vitinho,-0.3,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,América-MG,0,1
+6236,Avaí,Zagueiro,Arthur Chaves,1.2,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,5,0,América-MG,0,1
+6237,Cuiabá,Técnico,António Oliveira,2.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fortaleza,1,0
+6238,Corinthians,Meia,Adson,1.1,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,3,0,Botafogo,1,0
+6239,Botafogo,Zagueiro,Mezenga,2.3,20,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,6,0,Corinthians,0,1
+6240,Atlético-GO,Atacante,Ricardinho,-0.8,20,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,Flamengo,0,1
+6241,Fluminense,Atacante,Matheus Martins,2.6,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4,0,0,9,1,Santos,0,1
+6242,Santos,Meia,Lucas Barbosa,10.1,20,0,1,0,0,0,0,4,0,0,0,0,1,0,0,0,2,0,0,4,0,Fluminense,1,0
+6243,Cuiabá,Meia,Osorio,1.6,20,0,0,0,0,0,0,1,0,0,0,0,2,0,0,2,0,0,0,6,0,Fortaleza,1,0
+6244,Palmeiras,Atacante,José López,12.6,20,1,0,0,0,0,0,3,0,0,0,0,0,0,0,1,1,0,2,1,0,Ceará,0,1
+6245,Bragantino,Zagueiro,Lomónaco,5.0,20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Juventude,1,0
+6246,São Paulo,Meia,Pablo Maia,0.6,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,3,0,Athlético-PR,0,1
+6247,Corinthians,Meia,Du Queiroz,1.9,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,Botafogo,1,0
+6248,Goiás,Lateral,Juan Pablo,5.5,20,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,4,0,Coritiba,1,0
+6249,Athlético-PR,Atacante,Vitor Roque,5.1,20,0,0,0,0,0,0,2,0,0,0,0,1,0,1,1,1,0,1,4,1,São Paulo,1,0
+6250,Flamengo,Meia,Victor Hugo,14.7,20,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Atlético-GO,1,0
+6251,São Paulo,Lateral,João Moreira,1.7,20,0,0,0,0,0,0,2,0,0,0,0,3,1,0,0,3,0,0,3,0,Athlético-PR,0,1
+6252,São Paulo,Meia,Galoppo,4.0,20,0,0,0,0,0,0,1,0,0,0,0,4,0,1,3,2,0,0,6,0,Athlético-PR,0,1
+6253,São Paulo,Zagueiro,Luizão,-1.8,20,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,2,0,Athlético-PR,0,1
+6254,Corinthians,Atacante,Giovane,-0.3,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8,0,Botafogo,1,0
+6255,Internacional,Meia,Estevão,0.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Atlético-MG,1,0
+6256,São Paulo,Meia,Rodriguinho,0.9,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4,0,Athlético-PR,0,1
+6257,Internacional,Técnico,Mano Menezes,8.82,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Atlético-MG,1,0
+6258,Fluminense,Goleiro,Fábio,-1.0,20,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,Santos,0,1
+6259,São Paulo,Zagueiro,Miranda,0.8,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Athlético-PR,0,1
+6260,São Paulo,Lateral,Rafinha,2.7,20,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,9,0,Athlético-PR,0,1
+6261,Avaí,Atacante,Muriqui,0.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,América-MG,0,1
+6262,Corinthians,Lateral,Fábio Santos,7.0,20,0,0,0,1,0,0,3,0,0,0,0,1,0,0,0,0,0,0,13,0,Botafogo,1,0
+6263,América-MG,Atacante,Wellington Paulista,0.1,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,Avaí,1,0
+6264,Athlético-PR,Zagueiro,Thiago Heleno,2.9,20,0,0,0,1,0,0,2,0,0,1,0,2,0,1,0,0,1,0,1,0,São Paulo,1,0
+6265,Atlético-MG,Lateral,Mariano,0.7,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,7,0,Internacional,0,1
+6266,Flamengo,Meia,Diego,5.8,20,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,3,0,0,5,0,Atlético-GO,1,0
+6267,Atlético-MG,Atacante,Hulk,3.8,20,0,0,0,0,0,0,1,0,0,0,0,4,0,0,4,2,0,0,4,0,Internacional,0,1
+6268,Avaí,Meia,Renato,-0.1,20,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,5,0,América-MG,0,1
+6269,América-MG,Técnico,Vagner Mancini,5.6,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Avaí,1,0
+6270,Flamengo,Técnico,Dorival Júnior,7.64,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Atlético-GO,1,0
+6271,Fluminense,Atacante,Willian,0.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Santos,0,1
+6272,Corinthians,Meia,Willian,2.0,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,2,0,Botafogo,1,0
+6273,Coritiba,Lateral,Egídio,-1.2,20,0,0,0,0,0,0,2,0,1,0,0,2,0,0,0,3,0,1,14,0,Goiás,0,1
+6274,Corinthians,Goleiro,Cássio,8.0,20,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Botafogo,1,0
+6275,Atlético-MG,Técnico,Cuca,3.32,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Internacional,0,1
+6276,Athlético-PR,Técnico,Luiz Felipe Scolari,4.94,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,São Paulo,1,0
+6277,Fortaleza,Zagueiro,Titi,9.2,20,0,0,0,1,0,0,3,0,0,0,0,1,0,0,1,1,0,0,4,0,Cuiabá,0,1
+6278,Coritiba,Zagueiro,Henrique,0.6,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,Goiás,0,1
+6279,Cuiabá,Goleiro,Walter,0.0,20,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Fortaleza,1,0
+6280,Corinthians,Meia,Giuliano,3.5,20,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,5,0,Botafogo,1,0
+6281,Flamengo,Meia,Everton Ribeiro,1.2,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,5,0,Atlético-GO,1,0
+6282,Coritiba,Atacante,Léo Gamalho,1.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,Goiás,0,1
+6283,América-MG,Atacante,Felipe Azevedo,2.2,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,2,0,0,5,0,Avaí,1,0
+6284,América-MG,Lateral,Patric,0.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Avaí,1,0
+6285,Cuiabá,Meia,Rodriguinho,2.1,20,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,5,0,Fortaleza,1,0
+6286,Fluminense,Meia,Wellington,-1.3,20,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Santos,0,1
+6287,Juventude,Lateral,William Matheus,0.5,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,15,0,Bragantino,0,1
+6288,Fluminense,Meia,Ganso,9.7,20,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,15,0,Santos,0,1
+6289,Palmeiras,Lateral,Marcos Rocha,-0.7,20,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,6,0,Ceará,0,1
+6290,Coritiba,Meia,Willian Farias,5.4,20,0,0,0,0,0,0,5,0,0,1,0,0,0,0,0,2,0,0,6,0,Goiás,0,1
+6291,Internacional,Meia,Edenílson,7.8,20,0,1,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,5,0,Atlético-MG,1,0
+6292,Cuiabá,Atacante,André,0.5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Fortaleza,1,0
+6293,Atlético-MG,Lateral,Dodô,0.4,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Internacional,0,1
+6294,Santos,Meia,Camacho,1.2,20,0,0,0,0,0,0,2,0,0,1,0,3,0,0,0,2,0,0,3,0,Fluminense,1,0
+6295,América-MG,Atacante,Henrique Almeida,11.0,20,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,3,0,Avaí,1,0
+6296,Ceará,Lateral,Nino Paraíba,1.2,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,2,0,Palmeiras,1,0
+6297,Juventude,Zagueiro,Paulo Miranda,-0.6,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,Bragantino,0,1
+6298,Goiás,Atacante,Vinicius,-0.9,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,6,0,Coritiba,1,0
+6299,Palmeiras,Atacante,Dudu,14.6,20,1,0,0,0,0,0,2,0,0,0,0,0,0,2,0,5,0,1,6,0,Ceará,0,1
+6300,Coritiba,Zagueiro,Luciano Castán,2.9,20,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,1,0,0,6,0,Goiás,0,1
+6301,Flamengo,Atacante,Marinho,11.8,20,1,0,0,0,0,0,1,0,0,0,0,2,0,0,3,1,0,0,7,1,Atlético-GO,1,0
+6302,Fortaleza,Meia,Lucas Sasha,5.5,20,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,1,0,0,7,0,Cuiabá,0,1
+6303,Flamengo,Goleiro,Santos,-1.0,20,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Atlético-GO,1,0
+6304,Athlético-PR,Atacante,Marcelo Cirino,0.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,São Paulo,1,0
+6305,Avaí,Goleiro,Vladimir,0.0,20,0,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,América-MG,0,1
+6306,Atlético-MG,Atacante,Vargas,3.3,20,0,0,0,0,0,0,1,0,0,0,0,1,0,1,2,0,0,0,4,0,Internacional,0,1
+6307,Flamengo,Zagueiro,Pablo,0.3,20,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,3,0,Atlético-GO,1,0
+6308,Flamengo,Meia,Vidal,17.1,20,1,1,0,0,0,0,3,0,0,0,0,3,0,0,1,2,0,0,4,0,Atlético-GO,1,0
+6309,São Paulo,Meia,Nikão,1.6,20,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,2,0,0,4,0,Athlético-PR,0,1
+6310,Atlético-GO,Técnico,Jorginho,0.89,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Flamengo,0,1
+6311,Atlético-MG,Atacante,Eduardo Sasha,1.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Internacional,0,1
+6312,Cuiabá,Zagueiro,Marllon,0.9,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,4,0,Fortaleza,1,0
+6313,Athlético-PR,Meia,Léo Cittadini,-1.6,20,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,São Paulo,1,0
+6314,Ceará,Meia,Vina,1.4,20,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,11,1,Palmeiras,1,0
+6315,Santos,Zagueiro,Maicon,-0.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,8,0,Fluminense,1,0
+6316,Cuiabá,Atacante,Jenison,-0.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Fortaleza,1,0
+6317,Fortaleza,Goleiro,Fernando Miguel,10.0,20,0,0,0,1,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Cuiabá,0,1
+6318,Palmeiras,Goleiro,Weverton,5.0,20,0,0,0,0,0,6,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Ceará,0,1
+6319,América-MG,Lateral,Raúl Cáceres,0.9,20,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,9,0,Avaí,1,0
+6320,Palmeiras,Zagueiro,Gustavo Gómez,4.4,20,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,1,1,0,Ceará,0,1
+6321,Fortaleza,Atacante,Thiago Galhardo,-0.3,20,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,1,0,0,4,0,Cuiabá,0,1
+6322,Avaí,Lateral,Bruno Cortez,1.2,20,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,8,0,América-MG,0,1
+6323,América-MG,Zagueiro,Danilo Avelar,3.9,20,0,0,0,0,0,0,2,0,0,0,0,3,0,1,3,0,0,0,12,0,Avaí,1,0
+6324,Atlético-MG,Goleiro,Everson,-3.0,20,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,Internacional,0,1
+6325,Ceará,Meia,Rodrigo Lindoso,1.1,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Palmeiras,1,0
+6326,São Paulo,Goleiro,Felipe Alves,6.0,20,0,0,0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,0,0,0,Athlético-PR,0,1
+6327,Fluminense,Técnico,Fernando Diniz,2.73,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Santos,0,1
+6328,Avaí,Zagueiro,Bressan,0.3,20,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,8,0,América-MG,0,1
+6329,Goiás,Atacante,Nicolas,0.1,20,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,2,0,1,4,0,Coritiba,1,0
+6330,Goiás,Lateral,Maguinho,4.2,20,0,0,0,1,0,0,0,0,0,1,0,3,0,0,1,2,0,0,7,0,Coritiba,1,0
+6331,América-MG,Goleiro,Matheus Cavichioli,1.0,20,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Avaí,1,0
+6332,Internacional,Atacante,Pedro Henrique,0.7,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,3,0,Atlético-MG,1,0
+6333,Santos,Técnico,Lisca,5.08,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fluminense,1,0
+6334,Athlético-PR,Meia,Fernandinho,-2.5,20,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,11,0,São Paulo,1,0
+6335,Internacional,Zagueiro,Mercado,4.4,20,0,0,0,1,0,0,1,0,0,1,0,3,0,0,0,1,0,0,4,0,Atlético-MG,1,0
+6336,Botafogo,Lateral,Daniel Borges,-0.3,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,12,0,Corinthians,0,1
+6337,Fluminense,Lateral,Samuel Xavier,3.5,20,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,2,0,Santos,0,1
+6338,Fluminense,Zagueiro,Luccas Claro,-1.5,20,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,0,Santos,0,1
+6339,Avaí,Meia,Jean Cléber,3.9,20,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,2,0,0,3,0,América-MG,0,1
+6340,Flamengo,Lateral,Rodinei,0.9,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,Atlético-GO,1,0
+6341,Botafogo,Goleiro,Gatito Fernández,2.0,20,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Corinthians,0,1
+6342,Botafogo,Meia,Lucas Piazon,1.7,20,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,7,0,Corinthians,0,1
+6343,Avaí,Atacante,Paolo Guerrero,1.3,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,América-MG,0,1
+6344,Atlético-GO,Meia,Jorginho,-1.8,20,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,7,0,Flamengo,0,1
+6345,Goiás,Meia,Auremir,0.5,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,0,Coritiba,1,0
+6346,Corinthians,Técnico,Vítor Pereira,7.14,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Botafogo,1,0
+6347,Avaí,Técnico,Eduardo Barroca,2.92,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,América-MG,0,1
+6348,Avaí,Atacante,William Pottker,4.8,20,0,0,0,0,0,0,2,0,0,0,0,1,0,1,0,4,0,0,5,0,América-MG,0,1
+6349,Santos,Lateral,Madson,-0.1,20,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,8,0,Fluminense,1,0
+6350,Flamengo,Atacante,Vitinho,1.3,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,Atlético-GO,1,0
+6351,Internacional,Lateral,Renê,9.4,20,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4,0,Atlético-MG,1,0
+6352,Internacional,Meia,Gabriel,6.0,20,0,0,0,0,0,0,5,0,0,0,0,2,0,0,0,2,0,0,4,0,Atlético-MG,1,0
+6353,Santos,Zagueiro,Luiz Felipe,15.5,20,1,0,0,0,0,0,6,0,0,0,0,1,0,0,1,0,0,0,2,0,Fluminense,1,0
+6354,Coritiba,Goleiro,Alex Muralha,3.0,20,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Goiás,0,1
+6355,Fortaleza,Atacante,Silvio Romero,0.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Cuiabá,0,1
+6356,Fluminense,Atacante,Cano,1.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,Santos,0,1
+6357,Juventude,Meia,Jadson,-0.8,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,Bragantino,0,1
+6358,Juventude,Atacante,Edinho,-0.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Bragantino,0,1
+6359,São Paulo,Atacante,Luciano,-1.2,20,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,Athlético-PR,0,1
+6360,Atlético-GO,Meia,Edson ,-2.2,20,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,Flamengo,0,1
+6361,Ceará,Lateral,Michel,5.5,20,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,5,0,Palmeiras,1,0
+6362,Ceará,Técnico,Marquinhos Santos,2.53,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Palmeiras,1,0
+6363,Atlético-MG,Meia,Jair,6.0,20,0,0,0,0,0,0,3,0,0,0,0,1,0,1,1,2,0,0,3,0,Internacional,0,1
+6364,Palmeiras,Lateral,Mayke,0.8,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,Ceará,0,1
+6365,Santos,Atacante,Léo Baptistão ,0.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,Fluminense,1,0
+6366,Santos,Meia,Carlos Sánchez,2.3,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2,0,Fluminense,1,0
+6367,Juventude,Meia,Bruno Nazário,-1.9,20,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,0,0,8,0,Bragantino,0,1
+6368,Ceará,Goleiro,João Ricardo,3.0,20,0,0,0,0,0,5,0,0,0,0,2,0,0,0,0,0,0,0,0,0,Palmeiras,1,0
+6369,América-MG,Meia,Juninho,3.3,20,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,6,0,Avaí,1,0
+6370,Juventude,Meia,Chico,1.0,20,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,4,0,Bragantino,0,1
+6371,Goiás,Goleiro,Tadeu,8.0,20,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Coritiba,1,0
+6372,Palmeiras,Meia,Zé Rafael,6.7,20,0,0,0,0,0,0,6,0,0,0,0,1,0,0,0,0,0,0,2,0,Ceará,0,1
+6373,Coritiba,Meia,Régis,-0.2,20,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1,0,Goiás,0,1
+6374,Atlético-GO,Meia,Wellington Rato,9.9,20,1,0,0,0,0,0,2,0,0,0,0,4,0,0,0,3,0,0,8,0,Flamengo,0,1
+6375,Bragantino,Técnico,Maurício Barbieri,6.88,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Juventude,1,0
+6376,Fortaleza,Meia,Otero,1.2,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Cuiabá,0,1
+6377,Flamengo,Atacante,Gabriel,1.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Atlético-GO,1,0
+6378,São Paulo,Atacante,Marcos Guilherme,1.4,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,3,0,Athlético-PR,0,1
+6379,Goiás,Lateral,Danilo Barcelos,9.5,20,0,0,0,1,0,0,4,0,0,0,0,2,0,0,1,0,0,0,5,0,Coritiba,1,0
+6380,Fortaleza,Atacante,Romarinho,2.5,20,0,0,0,0,0,0,2,0,0,1,0,0,0,0,1,2,0,0,7,0,Cuiabá,0,1
+6381,Bragantino,Meia,Lucas Evangelista,4.1,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2,4,0,0,4,0,Juventude,1,0
+6382,Fortaleza,Atacante,Robson,10.5,20,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,3,0,1,6,0,Cuiabá,0,1
+6383,Fortaleza,Meia,Fabrício Baiano,1.0,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,Cuiabá,0,1
+6384,Cuiabá,Meia,Valdívia,1.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,Fortaleza,1,0
+6385,Santos,Goleiro,João Paulo,3.0,20,0,0,0,0,0,5,0,0,0,0,2,0,0,0,0,0,0,0,0,0,Fluminense,1,0
+6386,São Paulo,Zagueiro,Léo,-0.4,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,Athlético-PR,0,1
+6387,Ceará,Meia,Diego,1.6,20,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,5,0,Palmeiras,1,0
+6388,Atlético-GO,Zagueiro,Wanderson,-0.6,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,Flamengo,0,1
+6389,Avaí,Lateral,Natanael,5.1,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,América-MG,0,1
+6390,Ceará,Lateral,Victor Luis,2.0,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Palmeiras,1,0
+6391,Atlético-MG,Atacante,Keno,3.5,20,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,9,0,Internacional,0,1
+6392,Ceará,Meia,Richardson,-4.1,20,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,2,0,Palmeiras,1,0
+6393,Juventude,Lateral,Rodrigo Soares,2.5,20,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,11,0,Bragantino,0,1
+6394,Botafogo,Meia,Tchê Tchê,3.9,20,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,5,0,Corinthians,0,1
+6395,Flamengo,Atacante,Everton,1.6,20,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,1,0,0,7,0,Atlético-GO,1,0
+6396,Atlético-MG,Lateral,Guilherme Arana,6.5,20,0,0,1,0,0,0,2,0,0,0,0,1,0,0,1,2,0,0,4,0,Internacional,0,1
+6397,Coritiba,Zagueiro,Guillermo Santos,2.2,20,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,7,0,Goiás,0,1
+6398,Internacional,Atacante,Carlos de Pena,6.2,20,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,13,0,Atlético-MG,1,0
+6399,Atlético-GO,Meia,Willian Maranhão,3.0,20,0,0,0,0,0,0,4,0,0,1,0,1,0,0,0,0,0,0,5,0,Flamengo,0,1
+6400,Ceará,Zagueiro,Messias,-0.8,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,Palmeiras,1,0
+6401,Athlético-PR,Meia,Vitor Bueno,10.4,20,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,4,0,São Paulo,1,0
+6402,Juventude,Meia,Anderson Leite,2.4,20,0,0,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,3,0,Bragantino,0,1
+6403,Botafogo,Zagueiro,Philipe Sampaio,1.6,20,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,5,0,Corinthians,0,1
+6404,Fluminense,Lateral,Pineida,-0.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Santos,0,1
+6405,Corinthians,Zagueiro,Balbuena,8.8,20,0,0,0,1,0,0,4,0,0,0,0,1,0,0,0,0,0,0,7,0,Botafogo,1,0
+6406,Fortaleza,Meia,Matheus Vargas,0.9,20,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,Cuiabá,0,1
+6407,Palmeiras,Meia,Gustavo Scarpa,13.4,20,0,1,1,0,0,0,1,0,0,0,0,0,0,2,2,3,0,1,12,0,Ceará,0,1
+6408,Botafogo,Técnico,Luís Castro,2.94,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Corinthians,0,1
+6409,Cuiabá,Lateral,Daniel Guedes ,1.3,20,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,8,0,Fortaleza,1,0
+6410,Atlético-MG,Zagueiro,Junior Alonso,2.0,20,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,0,6,0,Internacional,0,1
+6411,Flamengo,Lateral,Ayrton Lucas,6.9,20,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,10,0,Atlético-GO,1,0
+6412,Bragantino,Lateral,Aderlan,3.8,20,0,0,0,1,0,0,1,0,0,0,0,4,0,0,0,1,0,0,17,0,Juventude,1,0
+6413,Juventude,Meia,Marlon,0.8,20,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,2,0,0,5,0,Bragantino,0,1
+6414,Coritiba,Técnico,Gustavo Morínigo,3.06,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goiás,0,1
+6415,América-MG,Zagueiro,Iago Maidana,0.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Avaí,1,0
+6416,Flamengo,Meia,Thiago Maia,-0.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Atlético-GO,1,0
+6417,São Paulo,Atacante,Calleri,1.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,11,0,Athlético-PR,0,1
+6418,Corinthians,Atacante,Róger Guedes,2.6,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,1,6,0,Botafogo,1,0
+6419,Ceará,Atacante,Mendoza,12.5,20,1,0,0,0,0,0,1,0,0,0,0,2,0,1,1,5,0,0,6,0,Palmeiras,1,0
+6420,Ceará,Lateral,Bruno Pacheco,-1.0,20,0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,0,0,6,0,Palmeiras,1,0
+6421,Atlético-GO,Atacante,Luiz Fernando ,-3.0,20,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Flamengo,0,1
+6422,Flamengo,Zagueiro,Fabrício Bruno,1.1,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,3,0,Atlético-GO,1,0
+6423,Atlético-GO,Zagueiro,Klaus,-0.5,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,Flamengo,0,1
+6424,Bragantino,Atacante,Carlos Eduardo,0.3,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,Juventude,1,0
+6425,Atlético-GO,Goleiro,Ronaldo,-2.0,20,0,0,0,0,0,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,Flamengo,0,1
+6426,América-MG,Atacante,Everaldo ,17.7,20,2,0,0,0,0,0,2,0,0,1,0,2,0,0,1,2,0,0,9,0,Avaí,1,0
+6427,América-MG,Zagueiro,Éder,0.3,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,6,0,Avaí,1,0
+6428,Juventude,Goleiro,César,2.0,20,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Bragantino,0,1
+6429,Cuiabá,Lateral,Igor Cariús,0.2,20,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,12,0,Fortaleza,1,0
+6430,Avaí,Meia,Eduardo,0.5,20,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,1,0,0,3,0,América-MG,0,1
+6431,Fluminense,Zagueiro,Nino,1.6,20,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,2,0,Santos,0,1
+6432,Fluminense,Zagueiro,David Duarte,0.0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Santos,0,1
+6433,Avaí,Lateral,Kevin ,3.4,20,0,0,0,0,0,0,3,0,0,0,0,1,0,1,0,0,0,0,11,0,América-MG,0,1
+6434,Cuiabá,Atacante,André Luís,2.4,20,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Fortaleza,1,0
+6435,Goiás,Técnico,Jair Ventura,5.91,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Coritiba,1,0
+6436,Bragantino,Meia,Raul,3.9,20,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,2,0,Juventude,1,0
+6437,Corinthians,Lateral,Rafael Ramos,4.4,20,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,18,0,Botafogo,1,0
+6438,Internacional,Atacante,Wanderson,8.5,20,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,4,0,Atlético-MG,1,0
+6439,América-MG,Meia,Benítez,5.0,20,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,Avaí,1,0
+6440,Juventude,Lateral,Paulo Henrique,2.6,20,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,1,0,1,11,0,Bragantino,0,1
+6441,Atlético-GO,Meia,Marlon Freitas,0.6,20,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,Flamengo,0,1
+6442,Bragantino,Goleiro,Cleiton,9.5,20,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Juventude,1,0
+6443,América-MG,Meia,Matheusinho,9.9,20,0,1,0,0,0,0,2,0,0,0,0,1,0,0,1,5,0,0,5,0,Avaí,1,0
+6444,Palmeiras,Atacante,Breno Lopes,-0.1,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Ceará,0,1
+6445,Corinthians,Meia,Maycon,0.8,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,Botafogo,1,0
+6446,Goiás,Atacante,Dadá Belmonte,8.0,20,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,2,0,0,9,0,Coritiba,1,0
+6447,Palmeiras,Meia,Raphael Veiga,2.2,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,Ceará,0,1
+6448,Juventude,Atacante,Capixaba,4.5,20,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,5,0,0,1,0,Bragantino,0,1
+6449,Atlético-MG,Meia,Nacho Fernández,0.8,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,Internacional,0,1
+6450,Botafogo,Meia,Lucas Fernandes,5.3,20,0,0,0,0,0,0,3,0,0,0,0,2,0,1,1,2,0,0,7,0,Corinthians,0,1
+6451,Fortaleza,Lateral,Juninho Capixaba,9.0,20,0,0,0,1,0,0,4,0,0,0,0,2,0,0,0,2,0,0,12,0,Cuiabá,0,1
+6452,Juventude,Lateral,Moraes,1.9,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,Bragantino,0,1
+6453,Atlético-GO,Lateral,Jefferson,-0.2,20,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,2,0,0,11,0,Flamengo,0,1
+6454,Avaí,Meia,Raniele,0.8,20,0,0,0,0,0,0,1,0,0,0,0,3,0,0,1,0,0,0,3,0,América-MG,0,1
+6455,Fortaleza,Zagueiro,Marcelo Benevenuto,9.5,20,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,Cuiabá,0,1
+6456,América-MG,Meia,Lucas Kal,0.6,20,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3,0,Avaí,1,0
+6457,Atlético-MG,Zagueiro,Nathan Silva,0.5,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Internacional,0,1
+6458,Bragantino,Atacante,Artur,4.8,20,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,2,0,0,14,0,Juventude,1,0
+6459,Ceará,Meia,Lima,2.1,20,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,3,0,Palmeiras,1,0
+6460,Internacional,Goleiro,Daniel,10.5,20,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Atlético-MG,1,0
+6461,Atlético-MG,Meia,Allan,4.5,20,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,1,0,0,8,0,Internacional,0,1
+6462,Internacional,Lateral,Bustos,10.0,20,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,2,0,0,8,0,Atlético-MG,1,0
+6463,Atlético-GO,Lateral,Dudu,1.0,20,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,9,0,Flamengo,0,1
+6464,Cuiabá,Atacante,Alesson,2.6,20,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,8,0,Fortaleza,1,0
+6465,São Paulo,Técnico,Rogério Ceni,1.68,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Athlético-PR,0,1
+6466,Juventude,Zagueiro,Thalisson Kelven,-0.3,20,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,5,0,Bragantino,0,1
+6467,Corinthians,Atacante,Gustavo Mosquito,10.0,20,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,9,0,Botafogo,1,0
+6468,Botafogo,Lateral,Marçal,1.0,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,Corinthians,0,1
+6469,Palmeiras,Zagueiro,Murilo,-0.5,20,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,4,0,Ceará,0,1
+6470,Bragantino,Zagueiro,Léo Ortiz,3.8,20,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,Juventude,1,0
+6471,Internacional,Zagueiro,Vitão,4.8,20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,Atlético-MG,1,0
+6472,Athlético-PR,Meia,Erick,3.9,20,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,2,0,0,4,0,São Paulo,1,0
+6473,Internacional,Atacante,Alemão,3.9,20,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,4,0,Atlético-MG,1,0
+6474,Goiás,Atacante,Pedro Raul,13.0,20,1,0,0,0,0,0,0,0,0,0,0,1,0,3,2,1,0,0,4,0,Coritiba,1,0
+6475,Atlético-GO,Atacante,Churín,1.6,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,Flamengo,0,1
+6476,Atlético-MG,Meia,Pedrinho,1.7,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,8,0,Internacional,0,1
+6477,Avaí,Meia,Jean Pyerre,1.7,20,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,5,0,América-MG,0,1
+6478,Athlético-PR,Atacante,Cuello,1.7,20,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,4,0,São Paulo,1,0
+6479,Santos,Atacante,Lucas Braga,1.7,20,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,4,0,Fluminense,1,0
+6480,Santos,Meia,Rodrigo Fernández,2.1,20,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,Fluminense,1,0
+6481,Atlético-GO,Meia,Baralhas,6.1,20,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,3,0,Flamengo,0,1
+6482,Fluminense,Meia,Arias,7.8,20,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,6,0,Santos,0,1
