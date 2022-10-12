@@ -11,7 +11,8 @@ posicoes = ['Goleiro','Lateral','Zagueiro','Meia','Atacante','Técnico']
 
 st.sidebar.write(
     """
-    CARTOLAFC 2022
+    **CARTOLAFC 2022 **
+    **Rodada 31 **
 
     """
 )
@@ -44,7 +45,7 @@ if len(dropdown1) > 0:
   fig.update_layout(
     xaxis_title="Pontos",
     autosize=False,
-    width=400,
+    width=200,
     height=hheight,
     margin=dict(
         l=10,
@@ -61,7 +62,7 @@ if len(dropdown1) > 0:
         zeroline=True,
     ),
     paper_bgcolor="white",
-    plot_bgcolor="darkgray",
+    plot_bgcolor="silver",
     )
 
   st.header('{}: Pontuação enfrentando {}'.format(radio,dropdown1))
