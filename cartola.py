@@ -11,8 +11,7 @@ posicoes = ['Goleiro','Lateral','Zagueiro','Meia','Atacante','Técnico']
 
 st.sidebar.write(
     """
-    **CARTOLAFC 2022 **
-    **Rodada 31 **
+    **CARTOLAFC 2022 - Rodada 31 **
 
     """
 )
@@ -45,7 +44,7 @@ if len(dropdown1) > 0:
   fig.update_layout(
     xaxis_title="Pontos",
     autosize=False,
-    width=200,
+    width=1200,
     height=hheight,
     margin=dict(
         l=10,
