@@ -45,9 +45,9 @@ if len(dropdown1) > 0:
     xaxis_title="Pontos",
     autosize=False,
     #width=1200,
-    width=500,
+    width=1000,
     #height=hheight,
-    height=800,
+    height=600,
     margin=dict(
         l=50,
         r=10,
