@@ -43,7 +43,7 @@ if len(dropdown1) > 0:
 
   fig.update_layout(
     xaxis_title="Pontos",
-    autosize=False,
+    autosize=True,
     #width=1200,
     width=1000,
     #height=hheight,
@@ -63,7 +63,7 @@ if len(dropdown1) > 0:
         zeroline=True,
     ),
     paper_bgcolor="white",
-    plot_bgcolor="silver",
+    plot_bgcolor="white",
     )
 
   st.header('{}: Pontuação enfrentando {}'.format(radio,dropdown1))
