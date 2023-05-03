@@ -44,14 +44,16 @@ if len(dropdown1) > 0:
   fig.update_layout(
     xaxis_title="Pontos",
     autosize=False,
-    width=1200,
-    height=hheight,
+    #width=1200,
+    width=100,
+    #height=hheight,
+    height=300,
     margin=dict(
-        l=10,
+        l=50,
         r=10,
         b=10,
-        t=10,
-        pad=2
+        t=50,
+        pad=0.1
     ),
 
     yaxis=dict(
