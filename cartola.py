@@ -66,7 +66,7 @@ if len(dropdown1) > 0:
         showticklabels=True,
         zeroline=True,
     ),
-    fig.update_layout(xaxis = dict(tickfont=dict(family='Arial', size=24, color='red')),
+    fig.update_xaxes(tickfont_size=24),
     paper_bgcolor="white",
     plot_bgcolor="silver",
     )
