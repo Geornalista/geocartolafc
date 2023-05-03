@@ -66,7 +66,7 @@ if len(dropdown1) > 0:
         showticklabels=True,
         zeroline=True,
     ),
-    fig.update_xaxes(tickfont_size=24),
+    fig.update_xaxes(tickfont_size=24,
     paper_bgcolor="white",
     plot_bgcolor="silver",
     )
