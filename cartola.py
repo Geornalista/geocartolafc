@@ -44,7 +44,7 @@ if len(dropdown1) > 0:
   fig.update_layout(
     font=dict(
             family="Arial",
-            size=18,
+            size=24,
             color="Red"
     ),
     xaxis_title="Pontos",
@@ -66,6 +66,7 @@ if len(dropdown1) > 0:
         showticklabels=True,
         zeroline=True,
     ),
+    fig.update_layout(xaxis = dict(tickfont=dict(family='Arial', size=24, color='red'))),
     paper_bgcolor="white",
     plot_bgcolor="silver",
     )
