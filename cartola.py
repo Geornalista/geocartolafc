@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objs as go
 
-times = ['América-MG','Athlético-PR','Atlético-GO','Atlético-MG','Avaí','Botafogo',
-        'Bragantino','Ceará','Corinthians','Coritiba','Cuiabá','Flamengo',
-        'Fluminense','Fortaleza','Goiás','Internacional','Juventude',
-        'Palmeiras','Santos','São Paulo']
+times = ['América-MG','Athlético-PR','Atlético-MG','Bahia','Botafogo',
+        'Bragantino','Corinthians','Coritiba','Cruzeiro','Cuiabá','Flamengo',
+        'Fluminense','Fortaleza','Goiás','Grêmio','Internacional','Palmeiras',
+         'Santos','São Paulo','Vasco']
 
 posicoes = ['Goleiro','Lateral','Zagueiro','Meia','Atacante','Técnico']
 
