@@ -62,6 +62,7 @@ if len(dropdown1) > 0:
         showticklabels=True,
         zeroline=True,
     ),
+    font=dict(color='black', size=12),
     paper_bgcolor="white",
     plot_bgcolor="white",
     )
