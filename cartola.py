@@ -11,7 +11,7 @@ posicoes = ['Goleiro','Lateral','Zagueiro','Meia','Atacante','Técnico']
 
 st.sidebar.write(
     """
-    **CARTOLAFC 2022 - Rodada 31 **
+    **CARTOLAFC 2023 - Rodada 3 **
 
     """
 )
