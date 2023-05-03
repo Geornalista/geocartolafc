@@ -39,7 +39,7 @@ if len(dropdown1) > 0:
 
   fig = go.Figure(
         data=[go.Bar(x = df1['PONTUACAO'], y = df1['NOME'],
-          name='PONTUACAO',orientation='h',marker_color='green')])
+          name='PONTUACAO',orientation='h',marker_color='blue')])
 
   fig.update_layout(
     xaxis_title="Pontos",
@@ -62,9 +62,9 @@ if len(dropdown1) > 0:
         showticklabels=True,
         zeroline=True,
     ),
-    font=dict(color='black', size=24),
+    font=dict(color='black', size=48),
     paper_bgcolor="white",
-    plot_bgcolor="white",
+    plot_bgcolor="silver",
     )
 
   st.header('{}: Pontuação enfrentando {}'.format(radio,dropdown1))
