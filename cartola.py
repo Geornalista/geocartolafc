@@ -11,7 +11,7 @@ posicoes = ['Goleiro','Lateral','Zagueiro','Meia','Atacante','Técnico']
 
 st.sidebar.write(
     """
-    **CARTOLAFC 2023 - Rodada 3 **
+    *CARTOLAFC 2023 - Rodada 3 *
 
     """
 )
@@ -62,7 +62,7 @@ if len(dropdown1) > 0:
         showticklabels=True,
         zeroline=True,
     ),
-    font=dict(color='black', size=12),
+    font=dict(color='black', size=24),
     paper_bgcolor="white",
     plot_bgcolor="white",
     )
