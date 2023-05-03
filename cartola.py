@@ -42,9 +42,13 @@ if len(dropdown1) > 0:
           name='PONTUACAO',orientation='h',marker_color='blue')])
 
   fig.update_layout(
+    font=dict(
+            family="Arial",
+            size=18,
+            color="Red"
+    ),
     xaxis_title="Pontos",
     autosize=True,
-    #width=1200,
     width=1000,
     #height=hheight,
     height=600,
@@ -62,7 +66,6 @@ if len(dropdown1) > 0:
         showticklabels=True,
         zeroline=True,
     ),
-    font=dict(color='black', size=48),
     paper_bgcolor="white",
     plot_bgcolor="silver",
     )
