@@ -9,13 +9,6 @@ times = ['América-MG','Athlético-PR','Atlético-MG','Bahia','Botafogo',
 
 posicoes = ['Goleiro','Lateral','Zagueiro','Meia','Atacante','Técnico']
 
-st.sidebar.write(
-    """
-    *CARTOLAFC 2023 - Rodada 3 *
-
-    """
-)
-
 st.sidebar.header('Escolha o time')
 dropdown1 = st.sidebar.selectbox('Escolha o time', times)
 
