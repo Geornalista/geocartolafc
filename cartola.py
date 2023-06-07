@@ -19,6 +19,9 @@ filename = 'cartola.csv'
 cartola = pd.read_csv(filename)
 cartola.drop('Unnamed: 0',axis=1, inplace=True)
 
+rod = cartola['RODADA'].max()
+st.write(f'RODADA ATUAL: {rod}')
+
 if len(dropdown1) > 0:
 
   df = cartola.query('ADVERSARIO == "{}" & POSICAO == "{}"'.format(dropdown1,radio))
