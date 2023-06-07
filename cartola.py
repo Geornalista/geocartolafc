@@ -20,7 +20,7 @@ cartola = pd.read_csv(filename)
 cartola.drop('Unnamed: 0',axis=1, inplace=True)
 
 rod = cartola['RODADA'].max()
-st.write(f'RODADA ATUAL: {rod}')
+st.header(f'RODADA ATUAL: {rod}')
 
 if len(dropdown1) > 0:
 
