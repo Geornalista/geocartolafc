@@ -35,7 +35,7 @@ if len(dropdown1) > 0:
 
   fig = go.Figure(
         data=[go.Bar(x = df1['PONTUACAO'], y = df1['NOME'],
-          name='PONTUACAO',orientation='h',marker_color='blue')])
+          name='PONTUACAO',orientation='h',marker_color='darkgreen')])
 
   fig.update_layout(
     xaxis_title="Pontos",
